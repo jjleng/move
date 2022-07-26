@@ -3,7 +3,7 @@
 // SPDX-License-Identifier: Apache-2.0
 
 pub mod lexer;
-pub(crate) mod syntax;
+pub mod syntax;
 
 pub mod ast;
 pub mod comments;
